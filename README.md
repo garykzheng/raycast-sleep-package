@@ -7,7 +7,8 @@ back on if the battery runs low while it's off.
 ## Install
 
 ```sh
-git clone <this repo> && cd raycast-sleep-package
+git clone https://github.com/garykzheng/raycast-sleep-package.git
+cd raycast-sleep-package
 ./install.sh
 ```
 
